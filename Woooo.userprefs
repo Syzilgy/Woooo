@@ -1,9 +1,12 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/InstantiateGObj.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BombHit.js">
     <Files>
-      <File FileName="Assets/Scripts/InstantiateGObj.js" Line="18" Column="5" />
+      <File FileName="Assets/Scripts/InstantiateGObj.js" Line="18" Column="38" />
       <File FileName="Assets/Scripts/CoinStuff.js" Line="11" Column="3" />
+      <File FileName="Assets/Scripts/DestroyOnClick.js" Line="8" Column="3" />
+      <File FileName="Assets/Scripts/GameData.js" Line="18" Column="32" />
+      <File FileName="Assets/Scripts/BombHit.js" Line="9" Column="16" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
